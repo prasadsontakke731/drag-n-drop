@@ -13,7 +13,7 @@ function Canvas() {
     const addCard = () => {
         const newCard = {
             id: cards.length + 1,
-            text: "This is some dummy text that will be truncated.",
+            text: "This is duumy text.",
             position: { x: 100, y: 100 },
             size: { width: 200, height: 100 },
         };
